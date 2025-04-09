@@ -7,7 +7,7 @@
   - https://github.com/RyanDoyle296/Azure-Honeypot
 - <b>Vulnerability Management with Nessus</b>
   - https://github.com/RyanDoyle296/Nessus-Vulnerability-Scan
-- <b>I’m currently working on a Python Port Scanner!</b>
+- <b>I’m currently working on a Wireshark Traffic Analysis Project!!</b>
 
 <h2> 🤳 Connect with me:</h2>
 https://www.linkedin.com/in/ryan-doyle-733936178/
