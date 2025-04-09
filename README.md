@@ -1,7 +1,7 @@
 
 <h1>Hi, I'm Ryan! <br/><a href="https://github.com/RyanDoyle296">Aspiring Cybersecurity Professional!</a></h1>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Personal Projects:</h2>
 
 - <b>Deploying a Honeypot with Azure</b>
   - https://github.com/RyanDoyle296/Azure-Honeypot
